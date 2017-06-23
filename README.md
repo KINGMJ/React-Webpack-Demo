@@ -1,5 +1,5 @@
-# ReactDemo
-React+Redux+ES6 demo
+# React-Webpack-Demo
+React+Redux+ES6+Webpack 的入门脚手架
 
 > 这是webpack的React入门脚手架，包含React、Redux、React-Router和ES6
 
